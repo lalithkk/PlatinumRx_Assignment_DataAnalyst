@@ -170,9 +170,9 @@ Output: progamin
 
 # 🔗 Submission Links
 
-* **GitHub Repository:** [(Add your link here)](https://github.com/lalithkk/PlatinumRx_Assignment_DataAnalyst/tree/main)
-* **Spreadsheet Link:** [(Add Google Sheets link)](https://docs.google.com/spreadsheets/d/1WHVcaHpuUoqjI30HLIAjDzkclWWe0V9O/edit?usp=sharing&ouid=115348834355226085315&rtpof=true&sd=true)
-* **Screen Recording:** [(Add Drive link)](https://drive.google.com/file/d/1if_zUdAgOFbT2t3eGLNijjBStPm-HRvl/view?usp=drive_link)
+* **GitHub Repository:** (https://github.com/lalithkk/PlatinumRx_Assignment_DataAnalyst/tree/main)
+* **Spreadsheet Link:** (https://docs.google.com/spreadsheets/d/1WHVcaHpuUoqjI30HLIAjDzkclWWe0V9O/edit?usp=sharing&ouid=115348834355226085315&rtpof=true&sd=true)
+* **Screen Recording:** (https://drive.google.com/file/d/1if_zUdAgOFbT2t3eGLNijjBStPm-HRvl/view?usp=drive_link)
 
 ---
 
